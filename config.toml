@@ -40,7 +40,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "img/me.jpg" # Logo image. Path relative to "static"
   title = "Joe Does Data" # Logo title, otherwise will use site title
   subtitle = "Explore Data Engineering with me." # Logo subtitle
 
@@ -65,13 +65,13 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   # Enable parts of social widget
   #facebook = "username"
   twitter = "jwdonley"
-  instagram = "jw_donley"
-  linkedin = "jwdonley"
-  #telegram = "username"
   github = "jwdonley"
+  linkedin = "jwdonley"
+  instagram = "jw_donley"
+  email = "jdonley83@gmail.com"
+  #telegram = "username"
   #gitlab = "username"
   #bitbucket = "username"
-  email = "jdonley83@gmail.com"
 
 # Custom social links
 #[[Params.widgets.social.custom]]
