@@ -31,3 +31,8 @@ I figured it would be good to have a place on the web to document this journey i
 For this I am using Hugo, a static site generator, and hosting the site at Firebase. This will let me work on my Git chops and learn more about application hosting options.
 
 So, be sure to follow along and feel free to learn along with me.
+
+
+Thanks for stopping by,
+
+Joe
