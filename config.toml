@@ -76,7 +76,7 @@ katex = true
   pre = "<i class='fab fa-github fa-lg'></i> "
   weight = -70 
   identifier = "github"
-  url = "https://github.com/slashformotion/hugo-tufte"
+  url = "https://github.com/jwdonley/joe-does-data-blog"
 
 # -----------------------------------------------------------------------
 # FOOTER MENU
@@ -84,12 +84,12 @@ katex = true
 # Please head to https://fontawesome.com/v4.7/icons/ to pick icons
 # -----------------------------------------------------------------------
 
-[[menu.footer]]
-  name = "Custom footer link"
-  pre = "<i class='fab fa-google fa-lg'></i> "
-  weight = -90 
-  identifier = "custom_link"
-  url = "https://google.com"
+#[[menu.footer]]
+#  name = "Custom footer link"
+#  pre = "<i class='fab fa-google fa-lg'></i> "
+#  weight = -90 
+#  identifier = "custom_link"
+#  url = "https://google.com"
 
 
 # Don't change the settings below
