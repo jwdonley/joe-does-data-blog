@@ -1,10 +1,11 @@
 ---
-title: "Home"
+title: "About"
 description: ""
-date: ""
+date: "2021-12-18T18:00:29-08:00"
 thumbnail: ""
 categories:
   - ""
 tags:
   - ""
+menu: main
 ---
